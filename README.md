@@ -1,12 +1,18 @@
 <!--
  * @Author: your name
  * @Date: 2020-05-27 15:06:34
- * @LastEditTime: 2020-05-27 15:09:13
+ * @LastEditTime: 2020-05-27 15:14:37
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: /ssa-watermark/README.md
 --> 
 ## 水印sdk
+
+### 开发
+```
+npm i 
+npm start
+```
 
 ### 安装
 ```
